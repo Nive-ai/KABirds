@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404068319236",
+    "firebase_url": "https://kabirds-a76b6.firebaseio.com",
+    "project_id": "kabirds-a76b6",
+    "storage_bucket": "kabirds-a76b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404068319236:android:d2e58428b1a39a2b",
+        "android_client_info": {
+          "package_name": "com.example.kabirds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404068319236-arrnr9irlpkui5rkefi7c1c57fefefj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kabirds",
+            "certificate_hash": "4c038eff31955e48e4789591ae43219d2be9d438"
+          }
+        },
+        {
+          "client_id": "404068319236-nnai5lq4ukcrj3d6tu097ocvm229gad7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7mqhq0HDZ-Lxc3LV--JWilUWJypXylO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404068319236-nnai5lq4ukcrj3d6tu097ocvm229gad7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

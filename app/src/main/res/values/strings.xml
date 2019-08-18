@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birds</string>
+    <string name="title_activity_map_one">Map</string>
+    <string name="title_activity_map_two">Map</string>
+    <string name="title_activity_map_three">Map</string>
+    <string name="title_activity_map_four">Map</string>
+</resources>
