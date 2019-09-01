@@ -1,6 +1,6 @@
 # Learning Birds - A Mobile based Application
 
-Android based mobile application for learning about birds, which
+This is an Android based mobile application for learning about birds, which
 includes the Brief description of Birds, their scientific name, colorful images of them, videos
 representing their locomotion, movements and the sound they make and finally a map
 showing where they can be seen for a list of Birds in Sri Lanka. 
@@ -18,4 +18,4 @@ showing where they can be seen for a list of Birds in Sri Lanka.
 
 ![20190901_201428](https://user-images.githubusercontent.com/30332391/64078200-41880d80-ccf5-11e9-9750-9ec5d31fb991.jpg)
 
-#### You can also add new birds or edit the existing birds easily through the firebase database through this [link](https://console.firebase.google.com/project/kabirds-a76b6/database/kabirds-a76b6/data)
+#### You can also add new birds or edit the existing birds easily through the firebase database by requesting access to this [link](https://console.firebase.google.com/project/kabirds-a76b6/database/kabirds-a76b6/data)
